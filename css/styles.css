@@ -318,6 +318,17 @@ footer {
     margin: 0;
     text-align: left; }
 
+
+  #news {
+    text-align: center;
+    padding: 75px 15px;
+    border-bottom: 1px solid #dcd9d9; }
+    #about h2 {
+      color: #205732; }
+    #about p {
+      color: #74808a;
+      margin: 0;
+      text-align: left; }
 /*
     --------------------------------
     ----- 6. Experience Styles -----
